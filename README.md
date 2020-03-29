@@ -1,2 +1,2 @@
-# Springb--study-project
-This project work is on Data science. The case study is on Yelp dataset.
+# Springboard Perp course--study-project
+These projects and exercises are part of Data scence prep course.
